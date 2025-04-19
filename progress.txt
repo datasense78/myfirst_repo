@@ -1,2 +1,4 @@
 Day1: Today I created my basic files
 Day2: Added a Sum Function
+Day3: Added a Product Function
+
